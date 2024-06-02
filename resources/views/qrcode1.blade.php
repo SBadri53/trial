@@ -1,5 +1,6 @@
 <!--<img src="data:image/png;base64,C:\qrcode_1716020593.png" />-->
 <div>
+   <h4>Hostinger successfull</h4>
    VALUE of var 1 :  {{ $variable1 }}
    <img src="{{ $src1 }}" alt="src1">
    <img src="data:image/png;base64,". {{   $imageData  }}  >
